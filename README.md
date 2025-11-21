@@ -32,6 +32,8 @@ Tidak perlu menjalankan seluruh UI.
 Frontend developer bisa fokus UI
 Backend/logic developer bisa fokus Cubit/Bloc
 Tidak saling mengganggu.
+
+
 #soal no 3
 1. State: List<ProductModel> (cart items)
 Fungsi:
