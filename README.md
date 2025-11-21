@@ -1,4 +1,5 @@
 # UTS_Pemograman-Mobile2_Ardi-Yoga-Pangestu_24552012015
+##soal 1
 Cubit dan Bloc adalah dua class yang disediakan oleh package flutter_bloc, namun memiliki perbedaan utama pada cara kerja dan kompleksitasnya.
 Cubit
 Lebih sederhana dibanding Bloc.
