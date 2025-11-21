@@ -15,7 +15,8 @@ Cocok untuk aplikasi besar, alur kompleks, atau kasus butuh kontrol penuh terhad
 
 
 soal no 2
-##1. Kode lebih rapi dan terstruktur
+
+#1. Kode lebih rapi dan terstruktur
 Setiap bagian memiliki tugas yang jelas:
 Model → menyimpan data
 Logika bisnis → mengelola proses & perhitungan
