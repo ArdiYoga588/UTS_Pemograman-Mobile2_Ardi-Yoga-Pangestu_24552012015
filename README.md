@@ -1,5 +1,6 @@
 # UTS_Pemograman-Mobile2_Ardi-Yoga-Pangestu_24552012015
-##soal 1
+jawaban soal 1
+
 Cubit dan Bloc adalah dua class yang disediakan oleh package flutter_bloc, namun memiliki perbedaan utama pada cara kerja dan kompleksitasnya.
 Cubit
 Lebih sederhana dibanding Bloc.
@@ -14,9 +15,9 @@ Untuk mengubah state, UI mengirimkan event, kemudian Bloc memprosesnya dan mem-e
 Cocok untuk aplikasi besar, alur kompleks, atau kasus butuh kontrol penuh terhadap event-state.
 
 
-soal no 2
+jawabansoal no 2
 
-#1. Kode lebih rapi dan terstruktur
+1. Kode lebih rapi dan terstruktur
 Setiap bagian memiliki tugas yang jelas:
 Model → menyimpan data
 Logika bisnis → mengelola proses & perhitungan
@@ -35,7 +36,7 @@ Backend/logic developer bisa fokus Cubit/Bloc
 Tidak saling mengganggu.
 
 
-#soal no 3
+jawabansoal no 3
 1. State: List<ProductModel> (cart items)
 Fungsi:
 Menyimpan daftar produk yang saat ini ada di keranjang.
