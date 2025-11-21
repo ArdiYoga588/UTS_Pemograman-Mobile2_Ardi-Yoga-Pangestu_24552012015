@@ -15,7 +15,7 @@ Untuk mengubah state, UI mengirimkan event, kemudian Bloc memprosesnya dan mem-e
 Cocok untuk aplikasi besar, alur kompleks, atau kasus butuh kontrol penuh terhadap event-state.
 
 
-jawabansoal no 2
+jawaban soal no 2
 
 1. Kode lebih rapi dan terstruktur
 Setiap bagian memiliki tugas yang jelas:
@@ -36,7 +36,7 @@ Backend/logic developer bisa fokus Cubit/Bloc
 Tidak saling mengganggu.
 
 
-jawabansoal no 3
+jawaban soal no 3
 1. State: List<ProductModel> (cart items)
 Fungsi:
 Menyimpan daftar produk yang saat ini ada di keranjang.
